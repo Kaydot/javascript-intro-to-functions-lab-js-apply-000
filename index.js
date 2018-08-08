@@ -19,5 +19,5 @@ function sayHiToGrandma(string){
   if (string === love); 
     return "I love you too."
   if (string === upper);
-    return
+    return ""
 }
