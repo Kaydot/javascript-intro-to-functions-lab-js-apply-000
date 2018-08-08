@@ -12,5 +12,7 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 function sayHiToGrandma(string){
-  var what=
+  var love = "I love you, Grandma";
+  var
+  
 }
