@@ -21,5 +21,5 @@ function sayHiToGrandma(string){
     if (string === upper);
       return "YES INDEED!"
     if (string === lower);
-      return
+      return "Icant"
 }
